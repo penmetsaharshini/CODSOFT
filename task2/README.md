@@ -22,7 +22,7 @@ This project is a high-end, eco-minimalist landing page for **"Verdant Aura,"** 
 * 🖋️ **Google Fonts** — Professional typography for a luxury feel.
 * 📦 **Lucide Icons** — Minimalist icons for a clean user interface.
 
-## 📁 Folder Structure
+## 📁 Project Structure
 ```text
 task2/
 ├── index.html         # Main entry point of the landing page
